@@ -32,3 +32,7 @@ JSON datasets of Egypt's governorates and cities/regions. Useful for address for
   "name_en": "Nasr City"
 }
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
