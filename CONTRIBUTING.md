@@ -6,7 +6,7 @@ Everyone is welcome to propose changes and contribute to this project. Thank you
 
 - Report missing locations, incorrect names, or duplicate entries.
 - Suggest corrections to Arabic names or English transliterations.
-- Fix incorrect links between cities or regions and governorates.
+- Fix incorrect links between areas and governorates.
 - Improve the documentation or propose other improvements.
 
 ## Propose a change

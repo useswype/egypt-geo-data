@@ -1,13 +1,13 @@
-# Egypt Governorates & Cities
+# Egypt Governorates & Areas
 
-JSON datasets of Egypt's governorates and cities/regions. Useful for address forms, database seeding, etc.
+JSON datasets of Egypt's governorates and areas. Useful for address forms, database seeding, etc.
 
 ## Datasets
 
 | File | Records | Contents |
 | --- | ---: | --- |
 | [governorates.json](governorates.json) | 27 | Governorates with Arabic and English names |
-| [cities.json](cities.json) | 390 | Cities and regions linked to their governorates |
+| [areas.json](areas.json) | 410 | Areas linked to their governorates |
 
 
 ## Data examples
@@ -22,7 +22,7 @@ JSON datasets of Egypt's governorates and cities/regions. Useful for address for
 }
 ```
 
-### Cities and regions
+### Areas
 
 ```json
 {
@@ -32,6 +32,8 @@ JSON datasets of Egypt's governorates and cities/regions. Useful for address for
   "name_en": "Nasr City"
 }
 ```
+
+Some areas also have `aliases_ar` and `aliases_en`: other names or spellings for the same place, for use in search.
 
 ## Contributing
 
